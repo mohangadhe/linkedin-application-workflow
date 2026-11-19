@@ -1,0 +1,14 @@
+config/candidate_profile.json
+input/job_descriptions/
+output/
+tmp/
+*.docx
+*.pdf
+*.png
+*.jpg
+*.jpeg
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store

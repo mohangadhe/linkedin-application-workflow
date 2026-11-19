@@ -1,0 +1,13 @@
+{
+  "name": "Candidate Name",
+  "location": "City, State",
+  "phone": "(555) 010-0000",
+  "email": "candidate@example.com",
+  "linkedin": "linkedin.com/in/candidate",
+  "current_title": "Current Role",
+  "education": [],
+  "certifications": [],
+  "skills": [],
+  "experience": [],
+  "projects": []
+}
